@@ -3,4 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # reactD3Tooltip
 Here is a network visual using D3 in React with Custom Styled Tooltips using react-tooltip
 
-#Demo: http://satyaraj.info/demo/networkvisual
+#Demo: <a href='' target='_blank'>http://satyaraj.info/demo/networkvisual</a>
