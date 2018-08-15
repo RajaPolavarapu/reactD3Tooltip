@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 # reactD3Tooltip
-This project helps you to understand react-tooltip with D3
+Here is a network visual using D3 in React with Custom Styled Tooltips using react-tooltip
 
-This is a network visualization designed using D3 in React
-Helps you to build visualization using d3 in React
+#Demo: http://satyaraj.info/demo/networkvisual
